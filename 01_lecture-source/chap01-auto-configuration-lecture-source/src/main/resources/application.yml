@@ -1,0 +1,8 @@
+#yaml=yml => 양을 파일
+# properties file <-> yml 키 입력 방식 다름
+# test.vlaue=sdasdsda  -> properties type
+test:
+  greeting: hi!!!!!!
+  array: 안녕, 반가워
+  value: hell world
+username: 이도아
